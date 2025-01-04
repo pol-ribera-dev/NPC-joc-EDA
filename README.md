@@ -1,0 +1,1 @@
+En una asignatura de la carrera (Estructura de Datos i Algoritmos) nos pidieron hacer un programa que jugara a un juego multijugador que crearon ellos. Después cogieron todos los jugadores que habíamos creado i los pusieron a competir entre ellos. El mío quedo entre los primeros lugares.
